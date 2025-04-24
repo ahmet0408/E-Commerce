@@ -77,7 +77,6 @@ const App = () => {
                           height="400"
                         />
                       </div>
-
                       <div className="newsletter">
                         <form action="#">
                           <div className="newsletter-header">
